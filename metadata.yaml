@@ -1,0 +1,30 @@
+_repo: Is-There-a-Santa-Claus-_31996
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31996-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: Discover Jacob Riis' lighter side with Is There a Santa Claus? This is
+  the perfect book for inquisitive children.
+gutenberg_issued: '2010-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+- !lcsh 'Santa Claus -- Juvenile literature'
+title: Is There a Santa Claus?
+url: http://www.gutenberg.org/ebooks/31996
