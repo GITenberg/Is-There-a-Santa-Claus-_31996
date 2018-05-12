@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
 description: Discover Jacob Riis' lighter side with Is There a Santa Claus? This is
   the perfect book for inquisitive children.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31996#Is-There-a-Santa-Claus-
 gutenberg_issued: '2010-04-15'
 gutenberg_type: Text
 identifiers:
